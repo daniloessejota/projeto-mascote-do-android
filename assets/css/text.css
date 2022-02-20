@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+body {
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 1em;
+    line-height: 1.5em;
+}
+
+header h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Roboto Slab', serif;
+    font-size: 2.5em;
+    line-height: 1em;
+}
+
+nav ul {
+    text-align: center;
+}
+
+main p{
+    text-indent: 1em;
+}
+
+h2 {
+    margin-top: 35px;
+    padding: 8px 5px;
+    margin-bottom: 20px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.6em;
+}
+
+h3 {
+    font-size: 1.2em;
+}
+
+p {
+    text-align: justify;
+}
+
+main a:hover {
+    text-decoration: underline;
+}
+
+footer small p {
+    text-align: center;
+    font-style: italic;
+    padding-top: 15px;
+
+}
+
+.highlights {
+    font-weight: bold;
+}
+
